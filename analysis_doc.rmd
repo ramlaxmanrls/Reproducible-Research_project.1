@@ -1,7 +1,7 @@
 ---
 title: "Daily Steps Takes - Data Analysis"
-author: "Faiyaz Hasan"
-date: "June 17, 2016"
+author: "P Rama Laxmana Swamy"
+date: "October 16, 2020"
 output: html_document
 ---
 
